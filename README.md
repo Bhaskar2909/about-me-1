@@ -11,7 +11,7 @@ This webpage is created to know about web app development and useful resources.
 ## Recommended Tools:
 To create web page I recommend below tools:  
 1. GitHub Account
-1. Virtual Studio : a text editor that can preview your web page1
+1. Virtual Studio : a text editor that can preview your web page
 1. GitHub tools: Git Bash, Totoise Git (Only for windows)
 
 
