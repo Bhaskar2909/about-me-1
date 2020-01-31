@@ -8,7 +8,8 @@ This webpage is created to know about web app development and useful resources.
 To create web page I recommend below tools:  
 1. GitHub Account
 1. Virtual Studio : a text editor that can preview your web page1
-1. GitHub tools: Git Bash, Totoise Git (Only for windows)  
+1. GitHub tools: Git Bash, Totoise Git (Only for windows)
+
 ## Recommended Resources:
 Below list of resources that are useful to develop web Apps:  
 1. [Tutorials Point](https://www.tutorialspoint.com/internet_technologies/websites_development.htm)
