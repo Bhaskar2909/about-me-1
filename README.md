@@ -1,6 +1,6 @@
 # about-me
 ## Repository links:
-* [source repository ](https://github.com/harish24680?tab=repositories)
+* [source repository ](https://github.com/harish24680/about-me)
 * [Hosted Page](https://harish24680.github.io/about-me/)
 
 
