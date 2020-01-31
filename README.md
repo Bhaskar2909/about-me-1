@@ -1,9 +1,9 @@
 # about-me
 ## Repository links:
-* My repositories found in this [link](https://github.com/harish24680?tab=repositories)
-* My Hosted Page can found [here](https://harish24680.github.io/YouTube10/)
+* [source repository ](https://github.com/harish24680?tab=repositories)
+* [Hosted Page](https://harish24680.github.io/about-me/)  
 ## About:
-This webpage is created to know about web app development and useful resources.
+This webpage is created to know about web app development and useful resources.  
 ## Recommended Tools:
 To create web page I recommend below tools:  
 1. GitHub Account
