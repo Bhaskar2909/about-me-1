@@ -25,7 +25,7 @@ Below list of resources that are useful to develop web Apps:
 ## Contributors:
 **Harish Thadka  
 Masters in Applied Computer science**  
-My Favourite image:  
+**My Favourite image:**  
 ![](https://i.pinimg.com/originals/0e/27/b0/0e27b0a7ec42b33f13b4e6eb66b75da1.jpg)  
 Image source obtained from [pinimg](https://i.pinimg.com/originals/0e/27/b0/0e27b0a7ec42b33f13b4e6eb66b75da1.jpg)
 
