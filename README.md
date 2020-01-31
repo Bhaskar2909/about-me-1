@@ -1,9 +1,11 @@
 # about-me
 ## Repository links:
 * [source repository ](https://github.com/harish24680?tab=repositories)
-* [Hosted Page](https://harish24680.github.io/about-me/)  
+* [Hosted Page](https://harish24680.github.io/about-me/)
+
 ## About:
-This webpage is created to know about web app development and useful resources.  
+This webpage is created to know about web app development and useful resources.
+
 ## Recommended Tools:
 To create web page I recommend below tools:  
 1. GitHub Account
@@ -15,6 +17,7 @@ Below list of resources that are useful to develop web Apps:
 1. [Tutorials Point](https://www.tutorialspoint.com/internet_technologies/websites_development.htm)
 1. [w3schools](https://www.w3schools.com/whatis/)
 1. [Udemy](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+
 ## Contributors:
 **Harish Thadka  
 Masters in Applied Computer science**  
