@@ -10,11 +10,12 @@ h2{
 }
 
 #listedcolor{
-    color: white;
     
+    color: white
 }
 #imgset{
     border-radius: 50%;
+    height: 200px;
     align-self: center;
 
 }
