@@ -1,0 +1,25 @@
+/* body{
+    /* background-color: #011627; */
+    
+    /* color: #FDFFFC;
+}  */
+
+h2{
+ color:white;
+ font-weight: bolder;
+}
+
+#listedcolor{
+    color: white;
+    
+}
+#imgset{
+    border-radius: 50%;
+    align-self: center;
+
+}
+#imgset2{
+    border-radius: 10%;
+    width: 35%;
+}
+
