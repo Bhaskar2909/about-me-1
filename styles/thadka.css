@@ -8,14 +8,23 @@ h2{
  color:white;
 }
 
-#listedcolor{
-    color: white
+.listed1{
+    color: white;
+    font-style: italic;
+}
+
+.listed2{
+    color: white;
+    font-style: italic;
+}
+.listed3{
+    color: white;
+    font-style: italic;
 }
 #imgset{
     border-radius: 50%;
     height: 200px;
     align-self: center;
-
 }
 #imgset2{
     border-radius: 10%;
@@ -32,4 +41,14 @@ p{
 ul{
     color: white;
 }
+
+.tg  {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+.tg td{font-family:Arial,  sans-serif;
+    color:white;
+    font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif; color:white;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
 
