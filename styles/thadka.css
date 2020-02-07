@@ -6,7 +6,6 @@
 
 h2{
  color:white;
- font-weight: bolder;
 }
 
 #listedcolor{
@@ -21,5 +20,16 @@ h2{
 #imgset2{
     border-radius: 10%;
     width: 35%;
+}
+p{
+    color: white;
+}
+
+#idsource{
+    font-style: italic;
+    color: black;
+}
+ul{
+    color: white;
 }
 
