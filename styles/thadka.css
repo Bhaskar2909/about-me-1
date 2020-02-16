@@ -41,6 +41,9 @@ p{
 ul{
     color: white;
 }
+#materialContactFormName, #lengthvalue, #breadthvalue{
+width: 30%;
+}
 
 .tg  {
     border-collapse:collapse;
