@@ -66,7 +66,7 @@ body{
   main{
       background-color: #333;
       color:white;
-      text-align: center;
+      padding: 10px;
   }
 
 
@@ -82,9 +82,21 @@ body{
     align-self: center;
 }
 #imgset2{
+    display: inline-block;
     border-radius: 10%;
-    width: 35%;
+    width: 50%;
 }
+
+  .box {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+  }
+
+
+
 p{
     color: white;
 }
@@ -100,9 +112,11 @@ ul{
 width: 30%;
 }
 
+
 .tg  {
     border-collapse:collapse;
     border-spacing:0;
+    justify-content: center;
 }
 .tg td{font-family:Arial,  sans-serif;
     color:white;
