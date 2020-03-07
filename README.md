@@ -5,17 +5,21 @@
 
 
 ## About:
-This webpage is created to know about web app development and useful resources.
+
+This project is made to know about java script, Ajax and local storage.
+1. First webpage is created to know about my background and future plans.
+1. Second Webpage is created to contact me using local storage
+1. Interaction Page is created to know about calculating area of rectangle using javascript and also about ajax.
 
 
-## Recommended Tools:
+## Tools:
 To create web page I recommend below tools:  
 1. GitHub Account
 1. Virtual Studio : a text editor that can preview your web page
 1. GitHub tools: Git Bash, Totoise Git (Only for windows)
 
 
-## Recommended Resources:
+## Resources:
 Below list of resources that are useful to develop web Apps:  
 1. [Tutorials Point](https://www.tutorialspoint.com/internet_technologies/websites_development.htm)
 1. [w3schools](https://www.w3schools.com/whatis/)
@@ -25,7 +29,3 @@ Below list of resources that are useful to develop web Apps:
 ## Contributors:
 **Harish Thadka  
 Masters in Applied Computer science**  
-**My Favourite image:**  
-![](https://i.pinimg.com/originals/0e/27/b0/0e27b0a7ec42b33f13b4e6eb66b75da1.jpg)  
-Image source obtained from [pinimg](https://i.pinimg.com/originals/0e/27/b0/0e27b0a7ec42b33f13b4e6eb66b75da1.jpg)
-
