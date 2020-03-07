@@ -47,7 +47,9 @@ const updateWithImage = async (event) => {
      }
 }
 document.addEventListener('click', event => {
-    if (event.target && event.target.id === 'ajaxbtn') { updateWithImage(event); }
+    if (event.target && event.target.id === 'ajaxbtn') { 
+      updateWithImage(event);
+     }
 })
 
 
