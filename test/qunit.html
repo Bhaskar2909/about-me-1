@@ -6,12 +6,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>QUnit JS-GUI-WITH-TESTS</title>
-
+  <link rel="stylesheet" href="../styles/thadka.css">
   <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-2.9.2.css">
 
 </head>
 
 <body>
+  <div class="topnav" id="myTopnav">
+    <a href="../index.html">About Me</a>
+    <a href="../contact.html">Contact</a>
+    <a href="../rectangle.html">Interaction</a>
+    <a href="test/qunit.html" class="active" >Qunit</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+    </a>
+</div>
+<script>
+    function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+</script>
 
 
   <div id="qunit"></div>
