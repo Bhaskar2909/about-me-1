@@ -27,10 +27,10 @@ document.addEventListener('click', event => {
 // fetch information
 const getImage = async () => {
     try {
-        const response = await fetch('http://www.splashbase.co/api/v1/images/random');
+        const response = await fetch('https://dog.ceo/api/breeds/image/random');
         const obj = await response.json();
         console.log(`FETCHED. Response JSON ${obj}`);
-        const imag = obj.url || 'No Image for you.';
+        const imag = obj.message || 'No Image for you.';
         return imag;
     } catch (error) 
     { 
@@ -39,7 +39,7 @@ const getImage = async () => {
 }
 const updateWithImage = async (event) => {
     try {
-        document.querySelector('#imgarea').src = '';
+        // document.querySelector('#imgarea').src = '';
         const answer = await getImage();
         document.querySelector('#imgarea').src = answer;
     } catch (error) { 
