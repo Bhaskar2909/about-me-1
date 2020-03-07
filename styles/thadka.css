@@ -67,7 +67,7 @@ body{
       background-color: #333;
       color:white;
       padding: 10px;
-      height: 500px;
+      /* height: 500px; */
   }
 
 
@@ -125,3 +125,28 @@ width: 30%;
 .tg th{font-family:Arial, sans-serif; color:white;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
 
+
+#formbtn{
+    background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+  width:150px;
+  height: 50px;
+  cursor:pointer;
+}
+
+#formbtn:hover{
+    background-color: #008CBA;
+  color: white;
+}
+
+footer{
+    background-color:#eaeaea; 
+    text-align: center;
+
+}
+
+.responsive {
+    width: 50%;
+    height: 500px;
+  }

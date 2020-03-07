@@ -38,20 +38,20 @@
             <!-- Title -->
             <h2 class="card-title h2">Contact Me
             </h2>
-            <form style="color:white;" action="#!">
+            <form>
 
                 <!-- Name -->
-                <label for="materialContactFormName">Name: </label>
-                <input class="form-control mdb-0" type="text"><br>
+                <label for="name">Name: </label>
+                <input type="text" id ="name"><p></p>
 
 
                 <!-- E-mail -->
-                <label for="materialContactFormEmail">E-mail: </label>
-                <input type="email" id="materialContactFormEmail"><br>
+                <label for="email">E-mail: </label>
+                <input type="email" id="email"><p></p>
 
                 <!--Message-->
-                <label for="materialContactFormMessage">Message: </label>
-                <textarea id="materialContactFormMessage" class="form-control md-textarea" rows="4"></textarea>
+                <label for="msg">Message: </label><p></p>
+                <textarea id="msg" rows="10" cols="50"></textarea>
 
 
                 <!-- Copy -->
@@ -61,7 +61,7 @@
                 </div>
 
                 <!-- Send button -->
-                <button type="submit" class="btn btn-blue-grey btn-rounded">send</button>
+                <button type="button" id="formbtn">Save</button>
 
             </form>
             <!-- Form -->
@@ -69,6 +69,8 @@
 
     </main>
     <footer class="page-footer font-medium teal text-center">©2020 Copyright: Developed by Harish Thadka</footer>
+    <script src="codes/code.js"></script>
+    <script src="src/main.js"></script>
 
 
 </body>
