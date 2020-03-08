@@ -122,7 +122,7 @@ width: 30%;
 .tg .tg-cly1{text-align:left;vertical-align:middle}
 
 
-#formbtn{
+#formbtn, #ajaxbtn, #btn{
     background-color: white; 
   color: black; 
   border: 2px solid #008CBA;
@@ -131,7 +131,7 @@ width: 30%;
   cursor:pointer;
 }
 
-#formbtn:hover{
+#formbtn:hover, #ajaxbtn:hover, #btn:hover{
     background-color: #008CBA;
   color: white;
 }
@@ -163,5 +163,5 @@ footer{
 
 .responsive {
     width: 50%;
-    height: 500px;
+    height: 400px;
   }

@@ -27,10 +27,10 @@ document.addEventListener('click', event => {
 // fetch information
 const getImage = async () => {
     try {
-        const response = await fetch('https://www.splashbase.co/api/v1/images/random');
+        const response = await fetch("https://www.splashbase.co/api/v1/images/random");
         const obj = await response.json();
         console.log(`FETCHED. Response JSON ${obj}`);
-        const imag = obj.message || 'No Image for you.';
+        const imag = obj.url || 'No Image for you.';
         return imag;
     } catch (error) 
     { 
